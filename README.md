@@ -33,7 +33,7 @@ cd tin-dog-landing
 ```
 tin-dog-landing/
 ├── css/
-│   └── style.css      # Page styles
+│   └── style.css         # Page styles
 ├── images/               # Images
 └── index.html            # Main page
 ```
